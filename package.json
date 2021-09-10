@@ -20,7 +20,8 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "react": "15.x || 16.x"
+    "react": "15.x || 16.x",
+    "react-dom": "^16.4.1"
   },
   "devDependencies": {
     "nwb": "^0.22.0",
