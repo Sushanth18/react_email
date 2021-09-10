@@ -25,7 +25,11 @@
   "devDependencies": {
     "nwb": "^0.22.0",
     "react-router-dom": "^5.2.0",
-    "styled-components": "^4.2.0"
+    "styled-components": "^4.2.0",
+    "@babel/cli": "^7.13.10",
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.12.13",
+    "@babel/preset-react": "^7.12.13",
   },
   "author": "",
   "homepage": "https://github.com/unlayer/react-email-editor#readme",
