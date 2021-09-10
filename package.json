@@ -20,8 +20,7 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "react": "15.x || 16.x",
-    "react-dom": "^16.4.1"
+    "react": "15.x || 16.x"
   },
   "devDependencies": {
     "nwb": "^0.22.0",
@@ -30,7 +29,9 @@
     "@babel/cli": "^7.13.10",
     "@babel/core": "^7.13.10",
     "@babel/preset-env": "^7.12.13",
-    "@babel/preset-react": "^7.12.13"
+    "@babel/preset-react": "^7.12.13",
+    "react-dom": "^16.4.1",
+    "react": "^16.4.1"
   },
   "author": "",
   "homepage": "https://github.com/unlayer/react-email-editor#readme",
